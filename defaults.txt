@@ -1,4 +1,4 @@
-data_file = C:/Users/volib/Desktop/Evaluation/data/2024/Perovskite/N1_Sndoping/Pb-Sn_99-1/spec/20250314/HSI20250314_HSI_1
+data_file = FIlEdir
 filename = HSI
 windowsize_X = 1200
 windowsize_Y = 800
@@ -9,7 +9,7 @@ remove_cosmics = True
 cosmic_threshold = 150
 cosmic_width = 10
 cosmic_method = Linear Interpolation
-clara_image = //Nas-akh/pc104_plm/Data/Moritz Limbacher/claratest/laserfocus50x/laser in focus50x.asc
+clara_image = FILE
 lowest_wavelength = 490
 highest_wavelength = 1000
 colormap_threshold = 10000
